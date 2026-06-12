@@ -2,6 +2,6 @@
 This is my repository where my daily progress and assignments will be uploaded.
 
 # Overview
-Company:-VIVEQA academy of Anmaya Technologies.
-Location:- Manipal.
-Role:-FPGA DESIGN INTERN
+**Company:-**VIVEQA academy of Anmaya Technologies.
+**Location:-** Manipal.
+**Role:-**FPGA DESIGN INTERN
